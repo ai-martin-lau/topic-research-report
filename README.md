@@ -3,16 +3,14 @@
 </p>
 
 <p align="center">
-  <img src="assets/cover.png" alt="Topic Research Report Skill" width="100%">
+  <img src="assets/cover.png" alt="话题深度调研报告 Skill" width="100%">
 </p>
 
-# Topic Research Report
+# 话题深度调研报告 Skill
 
 > 输入一个话题，默认联网调研，输出两份没有 AI 味的深度调研报告：中文一份，英文一份。
->
-> One topic in, two evidence-based bilingual research reports out.
 
-这是一个面向 Claude Code / Codex 的 Skill。它只做一件事：把一个话题调研成完整、可交付、可继续被 PPT 或视频系统二次加工的研究报告。
+这是一个面向 Claude Code 和 Codex 的 Skill。它只做一件事：把一个话题调研成完整、可交付、可继续被 PPT 或视频系统二次加工的研究报告。
 
 它不输出口播稿、分镜、PPT 页结构、公众号文章或搜索摘要。后续系统需要怎么改写，是后续系统的事；这个 skill 只负责把研究本身做扎实。
 
