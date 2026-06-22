@@ -2,10 +2,6 @@
   <a href="README.md">简体中文</a> · <a href="README_EN.md">English</a> · <a href="README_JA.md">日本語</a> · <a href="README_KO.md">한국어</a> · <a href="README_ES.md">Español</a>
 </p>
 
-<p align="center">
-  <img src="assets/cover.png" alt="Topic Research Report Skill" width="100%">
-</p>
-
 # Topic Research Report
 
 > 주제 하나를 입력하면 기본적으로 온라인 조사를 수행하고, AI 냄새를 줄인 심층 리서치 리포트 두 개를 생성합니다. 하나는 중국어, 하나는 영어입니다.

@@ -2,10 +2,6 @@
   <a href="README.md">简体中文</a> · <a href="README_EN.md">English</a> · <a href="README_JA.md">日本語</a> · <a href="README_KO.md">한국어</a> · <a href="README_ES.md">Español</a>
 </p>
 
-<p align="center">
-  <img src="assets/cover.png" alt="Topic Research Report Skill" width="100%">
-</p>
-
 # Topic Research Report
 
 > Introduce un solo tema. El skill investiga en línea por defecto y genera dos informes de investigación sin sabor genérico de IA: uno en chino y otro en inglés.
