@@ -2,10 +2,6 @@
   <a href="README.md">English</a> · <a href="README_ZH.md">简体中文</a> · <a href="README_JA.md">日本語</a> · <a href="README_KO.md">한국어</a> · <a href="README_ES.md">Español</a>
 </p>
 
-<p align="center">
-  <img src="assets/cover.png" alt="Topic Research Report" width="100%">
-</p>
-
 # 话题深度调研报告 Skill
 
 > 输入一个话题，默认联网调研，输出两份没有 AI 味的深度调研报告：中文一份，英文一份。
