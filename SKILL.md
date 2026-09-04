@@ -153,6 +153,10 @@ python3 scripts/check_topic_outputs.py "<输出目录>"
 
 校验失败时不要只改措辞。先回到来源核对事实状态，再改报告。
 
+**来源链接终检（交付前强制）**：报告里每一条 URL 逐条真实打开。HTTP 200 不算过关，标题和正文要和所引数据对得上，「页面不存在」的软 404 要抓出来；反爬站用真实浏览器渲染后再判，不能因为 curl 403 就默认它活着。死链修法优先级：Web Archive 存档（`archive.org/wayback/available` 查询）> 换同一数据的存活权威来源 > 删掉该引用并在「证据边界」说明。写报告时不许把长 URL 截断成「…」或换成没验证过的短链接。
+
+**去 AI 味复扫（可选，本机有检查器时）**：如果本机装了形状类去 AI 味检查器（例如 `~/.claude/skills/martin-writer/scripts/check-ai-tells.py` 对中文、`martin-writer-en/scripts/check-ai-tells-en.py` 对英文），交付前各跑一遍，「必须改」清零；它只报警不改稿，也不会注入任何个人风格。
+
 ## 不要做什么
 
 - 不要输出口播稿、分镜脚本、页结构或其他制作稿。
